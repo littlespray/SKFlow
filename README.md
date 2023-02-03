@@ -4,7 +4,7 @@ This repository is the official implementation of our paper:
 
 [SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/pdf/2205.14623v2.pdf)
 
-Shangkun Sun, YuanQi Chen, Yu Zhu, Guodong Guo, GeLi
+Shangkun Sun, Yuanqi Chen, Yu Zhu, Guodong Guo, Ge Li
 
 NeurIPS 2022
 
@@ -65,7 +65,7 @@ Pre-trained models could be downloaded here:
 
 - [Pretrained Model for Sintel](https://drive.google.com/file/d/1F6Ag7MPG8QrP3RSXAzSSv42_RYyZx5P2/view?usp=sharing)
 - [Pretrained Model for KITTI](https://drive.google.com/file/d/1IQL8edRo-DugTFV3UpL-mN0e4k2nzLOC/view?usp=sharing)
-
+- [Pretrained Model on C+T](https://drive.google.com/file/d/18NuBPV4hjivnPsPHPTEbjdiACfqg30Al/view?usp=sharing)
 
 
 ## Acknowledgement

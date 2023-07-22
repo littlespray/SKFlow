@@ -1,6 +1,5 @@
 certifi==2021.10.8
 cycler==0.11.0
-depthwise-conv2d-implicit-gemm==0.0.0
 einops==0.3.2
 fonttools==4.28.1
 imageio==2.13.5
